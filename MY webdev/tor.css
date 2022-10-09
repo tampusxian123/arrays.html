@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(7, 115, 165);
+    text-transform: uppercase;
+}
+
+.container{
+    display:flex;
+
+}
+img{
+   max-width:100%
+}
+
+html { 
+    background: url(thorn.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
